@@ -6,7 +6,7 @@ color: black;
 text-align: center;
 }
 
-h3{
+.cta{
   color: Aquamarine;
   font-size: 16px;
   text-align: center;
@@ -25,7 +25,11 @@ h2{
   font-weight: 300;
   font-size: 42 px;
 }
-app{
+.app{
   background-color: black;
   text-align:center
+}
+body{
+  background-color: : black;
+  color: white;
 }
