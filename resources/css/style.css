@@ -2,34 +2,45 @@ h1{
 font-family: : Verdana;
 font-weight: normal;
 font-size: 50px;
-color: black;
+color: white;
 text-align: center;
 }
-
 .cta{
-  color: Aquamarine;
-  font-size: 16px;
-  text-align: center;
+color: Aquamarine;
+font-size: 16px;
+text-align: center;
+text-decoration:underline;
 }
 .background{
-  color: black;
+color: black;
 }
 p{
-  font-family:Verdana;
-  font-size: 21 px;
-  color: Gray;
+font-family:Verdana;
+font-size: 21 px;
+color: Gray;
+}
+h2{
+font-family: Verdana;
+font-weight: 300;
+font-size: 42 px;
+color: white;
+text-align: center;
+
+.app{
+background-color: black;
+text-align:center
+color:white;
 }
 
-h2{
-  font-family: Verdana;
-  font-weight: 300;
-  font-size: 42 px;
-}
-.app{
-  background-color: black;
-  text-align:center
-}
 body{
-  background-color: : black;
-  color: white;
+background-color: black;
+color: white;
+text-align: center;
+}
+.footer{
+  text-align: right;
+  color: gray;
+}
+video{
+  align-items: center;
 }
