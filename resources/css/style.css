@@ -39,5 +39,6 @@ display block;
 
 .footer{
   text-align: right;
+  text-decoration: none
   color: gray;
 }
